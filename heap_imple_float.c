@@ -2,7 +2,7 @@
    Name        : Fractions.c
    Creator     : Arun 
    Date        : 06/08/2018
-   Description : Assignment two	
+   heap implementation example
 */
 
 #include<stdio.h>
